@@ -119,5 +119,5 @@ export const orangeTheme = {
   headerColor: "#FF6B3577",
 };
 
-export const chosenTheme = blackTheme;
+export const chosenTheme = greenTheme;
 
