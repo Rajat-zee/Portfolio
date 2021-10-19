@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Rajat Kashyap Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://rajat-zee.github.io/Portfolio/#/",
   },
 };
 
@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1u3Vcl270T_XbfdIfPnPz-ywaLRIWq3hV/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgeneral-kenobi-kenobi-general-hello-there-star-wars-gif-13723705&psig=AOvVaw3enEuIma7vQW-uW673FmWE&ust=1634739434076000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJD_hpDV1vMCFQAAAAAdAAAAABAD",
 };
 
 const socialMediaLinks = [
@@ -110,7 +110,7 @@ const skills = {
       title: "Web Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
+        "⚡ Building responsive website front end using React-Redux",
         "⚡ Creating application backend in Django",
         "⚡ Creating application api in Django REST framework",
       ],
